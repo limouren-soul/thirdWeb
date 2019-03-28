@@ -5,6 +5,7 @@ public class Happy {
 		// TODO 自动生成的方法存根
 		System.out.println("nihao...right,right");
 		System.out.println("nihao.....left");
+		System.out.println("hot...fix");
 		
 	}
 
